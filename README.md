@@ -42,6 +42,6 @@ printf("5d");
 ## link
 .[ajio](https://www.ajio.com/shop/women)
 ## college website link
-.[.].()
+[]()
 ## gmail link
-.[.].()
+[]()
