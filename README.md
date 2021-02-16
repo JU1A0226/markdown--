@@ -39,3 +39,5 @@ scanf("%d",&n);
 for(i=1;i<=n; ++1)
 {
 printf("5d");
+## link
+.[ajio](https://www.ajio.com/shop/women)
