@@ -26,6 +26,16 @@
    def fun():
    printf("hello ee3")
    ```
-   ```
+```
    fun()
 ```
+## write a c programm to print hello apssdc
+#include <stdio.h>
+int main()
+{
+int i,n,t1=0 t2=2,nextterm;
+printf("enter the number of terms:");
+scanf("%d",&n);
+for(i=1;i<=n; ++1)
+{
+printf("5d");
