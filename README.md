@@ -44,4 +44,4 @@ printf("5d");
 ## college website link
 []()
 ## gmail link
-[]()
+[](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
